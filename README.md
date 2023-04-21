@@ -1,5 +1,5 @@
 # 人工智能技术应用分享沙龙-2023.04.15
-其中GDE林嵩老师分享的内容一个自己动手搭建Keras + Stable Diffusion环境跑AIGC一个demo的例子，具体的walkthrough如下：
+其中GDE林嵩老师分享的内容一个自己动手搭建* Keras + Stable Diffusion *环境跑AIGC一个demo的例子，具体步骤如下：
 **注：这个例子因为使用某些高版本tf才有的函数，所以要求tf在2.12以上**
 
 **步骤**
